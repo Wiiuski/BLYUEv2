@@ -174,6 +174,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: protag
       objectReference: {fileID: 0}
+    - target: {fileID: 7723707659769099025, guid: 67d98e25db4611b44ab0cbc233914cad, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 95b1494515b73b64e97b047ba6194797, type: 2}
+    - target: {fileID: 7723707659769099025, guid: 67d98e25db4611b44ab0cbc233914cad, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8a9b011cb17fdc648b881473eb15d567, type: 2}
+    - target: {fileID: 7723707659769099025, guid: 67d98e25db4611b44ab0cbc233914cad, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6892ae911326604448be4f3590976d59, type: 2}
+    - target: {fileID: 7723707659769099025, guid: 67d98e25db4611b44ab0cbc233914cad, type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4e53097a58dda9d498e04e562a1ee6ff, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -714,7 +730,7 @@ MonoBehaviour:
   distance: 3
   objectLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 73
   woke: 1
 --- !u!1001 &450786708
 PrefabInstance:
@@ -3656,10 +3672,12 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"grounded","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"groundCheck","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"groundDistance","value":{"$content":0.4,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"animator","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 353096726}
     - {fileID: 8548842801693728624}
+    - {fileID: 222400623}
 --- !u!114 &3000866408377359847
 MonoBehaviour:
   m_ObjectHideFlags: 0

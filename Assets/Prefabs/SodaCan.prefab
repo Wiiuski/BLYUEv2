@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8737847351484772347}
   - component: {fileID: 2098887959876456420}
   - component: {fileID: 5074421137200378274}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SodaCan
   m_TagString: Collectable
   m_Icon: {fileID: 0}
