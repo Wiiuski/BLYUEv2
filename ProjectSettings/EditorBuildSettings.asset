@@ -9,15 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Level.unity
-    guid: 1f7bb2703de3a514084d0ee7bfff844e
-  - enabled: 0
     path: Assets/Scenes/RedditPost.unity
     guid: c3f6338f05d7977409780b813d2df8bd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Splash.unity
     guid: 905f47fa545f7b54d84c8ab5189f9e5b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Title.unity
     guid: 28be7139ff7a98a42a2d6300cf25c640
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 1f7bb2703de3a514084d0ee7bfff844e
   m_configObjects: {}
