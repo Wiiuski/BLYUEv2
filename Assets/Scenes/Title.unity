@@ -1650,7 +1650,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &649940411
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1881,7 +1881,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8.146804, y: 154}
+  m_AnchoredPosition: {x: 8.146804, y: 163}
   m_SizeDelta: {x: 735.9228, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &752701934
@@ -1905,12 +1905,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Programming/Game Design/Motion Graphics - Charlie Masek\r\n\n3D Artist/Programming
-    - Carson Dauer\r\n\n2D Artist/Programmer - Gabriel Glass\r\n\nEnemy Design/UI
+    - Carson Dauer\r\n\n2D Artist/Programming - Gabriel Glass\r\n\nEnemy Design/UI
     -  CJ Gonzales \r\n\nSound Design/2D Artist - Hannah Robbins\r\n\n3D Environment
     Designer - Samantha Toddie\r\n\nGame Designer: All of us!\r\n\nMusic by Stevia
     Sphere \u201Cglaci\xE6re\" -\n\"Light Dancing on the Pool Surface\r\"\n\"Too
-    Tired to Think\"\r\n\n\nVoice Over - Charlie Masek\r\n\nSounds Effects: SampleFocus
-    and Sebastian Ugas Estopinan, ZapSplat\r\n\nTextures - https://screamingbrainstudios.com/"
+    Tired to Think\"\r\n\nUnity Asset Store - Jiggly Bubble Free by MoonFlowerCarnivore\n\nVoice
+    Over - Charlie Masek\r\n\nSounds Effects: SampleFocus and Sebastian Ugas Estopinan,
+    ZapSplat\r\n\nTextures - https://screamingbrainstudios.com/"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4558b07325fbc4d46a506f0ca96e9d47, type: 2}
   m_sharedMaterial: {fileID: 1871879841996897540, guid: 4558b07325fbc4d46a506f0ca96e9d47, type: 2}
