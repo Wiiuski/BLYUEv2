@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Collectable
   - DeathFloor
+  - groundChecker
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - isGround
   - groundCheck
   - collectable
-  - checkpoint
-  - 
+  - checkPoint
+  - navigation
   - 
   - 
   - 
